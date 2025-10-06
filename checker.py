@@ -39,4 +39,5 @@ def checkRandomTag(plate:numberplate)->bool:
             return True
         else:
             return False
+def getfromdatabase()->list:
 
